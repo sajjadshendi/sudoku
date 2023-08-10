@@ -11,7 +11,6 @@ class AI:
     # ^^^ DO NOT change the name of the class ***
 
     def __init__(self, population_count):
-        #تعداد کروموزوم ها
         self.population_count = population_count
 
     # the solve function takes a json string as input
